@@ -12,4 +12,4 @@ Sou Estudante de **Engenharia de Software** na [Ecole 42 São Paulo](https://www
 [![Twitter Rajiv](https://img.shields.io/badge/-rajivmilhomem-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/rajivmilhomem)](https://twitter.com/rajivmilhomem/)
 [![LinkedIn Rajiv](https://img.shields.io/badge/-rajivmilhomem-0077B5?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rajivmilhomem/)](https://www.linkedin.com/in/rajivmilhomem/)
 [![Instagram Rajiv](https://img.shields.io/badge/-rajiv.milhomem-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/rajiv.milhomem/)](https://www.instagram.com/rajiv.milhomem/)
-![Gmail Rajiv](https://img.shields.io/badge/-rtavares@student.42sp.org.br-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white)
+[![Gmail Rajiv](https://img.shields.io/badge/-rtavares@student.42sp.org.br-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white)](mailto:rtavares@student.42sp.org.br)
