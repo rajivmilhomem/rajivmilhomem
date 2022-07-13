@@ -1,7 +1,7 @@
 ### Hello World ! 
 👨🏻‍💻 Meu nome é **Rajiv Milhomem**
 
-Sou Estudante de **Engenharia de Software** na [Ecole 42 São Paulo](https://www.42sp.org.br) primeira turma da América latina, trabalho na área de tecnologia a 10 anos, a 8 anos como Desenvolvedor Web, com experiência prática em várias *linguagens, frameworks e bibliotecas*. Tenho também conhecimento em *TI, Redes, UNIX, LINUX, MAC, Console, Git, GitHub, Vim, VsCode* e outras ferramentas necessárias para um **desenvolvimento limpo e eficaz**.
+Fui Estudante de **Engenharia de Software** na [Ecole 42 São Paulo](https://www.42sp.org.br) primeira turma da América latina, trabalho na área de tecnologia a 10 anos, a 8 anos como Desenvolvedor Web, com experiência prática em várias *linguagens, frameworks e bibliotecas*. Tenho também conhecimento em *TI, Redes, UNIX, LINUX, MAC, Console, Git, GitHub, Vim, VsCode* e outras ferramentas necessárias para um **desenvolvimento limpo e eficaz**.
 
 🖥  => Full Stack Developer
 
